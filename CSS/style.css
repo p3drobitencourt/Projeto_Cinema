@@ -1,0 +1,39 @@
+p.hoje{
+    color: darkgreen;
+}
+p.amanha{
+    color: darkblue;
+}
+p{
+    font-size: 20px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(206, 214, 222);
+}
+a{
+    text-decoration: none;
+}
+h2 a {
+    color: royalblue;
+    margin: 10px;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.start{
+    display: inline-block;
+    padding: 10px 20px;          
+    background-color: #007BFF;    
+    color: white;                       
+    border-radius: 7px;          
+    font-size: 18px;             
+    
+    text-align: center;
+}
+
+.start:hover {
+    background-color: #0056b3;   
+}
